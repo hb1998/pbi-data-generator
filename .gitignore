@@ -1,0 +1,5 @@
+.vscode
+generatedData/
+server/node_modules
+server/mime
+server/mime.cmd
